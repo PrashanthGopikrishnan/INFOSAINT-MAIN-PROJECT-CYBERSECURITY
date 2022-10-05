@@ -24,7 +24,7 @@ $$$$$$\$$ |  $$ $$ |    \$$$$$$  $$$$$$$  $$ $$ |  $$ |\$$$$  |
 \______\__|  \__\__|     \______/\_______/\__\__|  \__| \____/ 
     """)
     print(Y+"                           Created By : PRASHANTH G")
-    print(Y+"                           Github profile: https://github.com/Ramalingasamy012")
+    print(Y+"                           Github profile: https://github.com/PrashanthGopikrishnan")
     print(green+"""
                 Available Modules 
            
